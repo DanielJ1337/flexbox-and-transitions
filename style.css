@@ -66,11 +66,7 @@ p {
     .panel-4 p:nth-child(1),
     .panel-5 p:nth-child(1),
     .panel-6 p:nth-child(1) {
-        transform: translateX(-500%);
-        -webkit-transform: translateX(-500%);
-        -moz-transform: translateX(-500%);
-        -ms-transform: translateX(-500%);
-        -o-transform: translateX(-500%);
+        display: none;
     }
 
     .panel-1 p:nth-child(3),
@@ -79,11 +75,7 @@ p {
     .panel-4 p:nth-child(3),
     .panel-5 p:nth-child(3),
     .panel-6 p:nth-child(3) {
-        transform: translateX(500%);
-        -webkit-transform: translateX(500%);
-        -moz-transform: translateX(500%);
-        -ms-transform: translateX(500%);
-        -o-transform: translateX(500%);
+        display: none;
     }
 }
 

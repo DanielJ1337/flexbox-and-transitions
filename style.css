@@ -85,7 +85,7 @@ p {
 .panel-4:hover,
 .panel-5:hover,
 .panel-6:hover {
-    flex: 2;
+    flex: 3;
 }
 
 .panel-1 p:nth-child(1),
